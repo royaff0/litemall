@@ -252,7 +252,7 @@
 .a-groupon .b .price {
   width: 476rpx;
   display: flex;
-  color: #ab956d;
+  color: #F67569;
   line-height: 50rpx;
   font-size: 33rpx;
 }
@@ -309,7 +309,7 @@
   text-align: center;
   line-height: 30rpx;
   font-size: 30rpx;
-  color: #ab956d;
+  color: #F67569;
 }
 
 .a-popular {
@@ -370,7 +370,7 @@
 .a-popular .b .price {
   width: 456rpx;
   display: block;
-  color: #ab956d;
+  color: #F67569;
   line-height: 50rpx;
   font-size: 33rpx;
 }
@@ -414,7 +414,7 @@
 
 .a-topic .b .np .price {
   margin-left: 20.8rpx;
-  color: #ab956d;
+  color: #F67569;
 }
 
 .a-topic .b .desc {
@@ -493,7 +493,7 @@
   height: 30rpx;
   text-align: center;
   font-size: 30rpx;
-  color: #ab956d;
+  color: #F67569;
 }
 
 .good-grid .t {

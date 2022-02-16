@@ -7,10 +7,10 @@ Page({
   data: {
     checkedGoodsList: [],
     checkedAddress: {},
-    availableCouponLength: 0, // 可用的优惠券数量
+    availableCouponLength: 0, // 可用的红包卡券数量
     goodsTotalPrice: 0.00, //商品总价
     freightPrice: 0.00, //快递费
-    couponPrice: 0.00, //优惠券的价格
+    couponPrice: 0.00, //红包卡券的价格
     grouponPrice: 0.00, //团购优惠价格
     orderTotalPrice: 0.00, //订单总价
     actualPrice: 0.00, //实际需要支付的总价

@@ -65,9 +65,9 @@ page {
 }
 
 .catalog .nav .item.active {
-  color: #ab956d;
+  color: #F67569;
   font-size: 36rpx;
-  border-left: 6rpx solid #ab956d;
+  border-left: 6rpx solid #F67569;
 }
 
 .catalog .cate {

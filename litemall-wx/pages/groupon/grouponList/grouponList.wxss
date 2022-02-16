@@ -64,7 +64,7 @@ page, .container {
 .groupon-list .price {
   width: 476rpx;
   display: flex;
-  color: #ab956d;
+  color: #F67569;
   line-height: 50rpx;
   font-size: 33rpx;
 }

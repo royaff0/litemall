@@ -90,11 +90,11 @@ module.exports = {
   GroupOnDetail: WxApiRoot + 'groupon/detail', //团购API-详情
   GroupOnJoin: WxApiRoot + 'groupon/join', //团购API-详情
 
-  CouponList: WxApiRoot + 'coupon/list', //优惠券列表
-  CouponMyList: WxApiRoot + 'coupon/mylist', //我的优惠券列表
-  CouponSelectList: WxApiRoot + 'coupon/selectlist', //当前订单可用优惠券列表
-  CouponReceive: WxApiRoot + 'coupon/receive', //优惠券领取
-  CouponExchange: WxApiRoot + 'coupon/exchange', //优惠券兑换
+  CouponList: WxApiRoot + 'coupon/list', //红包卡券列表
+  CouponMyList: WxApiRoot + 'coupon/mylist', //我的红包卡券列表
+  CouponSelectList: WxApiRoot + 'coupon/selectlist', //当前订单可用红包卡券列表
+  CouponReceive: WxApiRoot + 'coupon/receive', //红包卡券领取
+  CouponExchange: WxApiRoot + 'coupon/exchange', //红包卡券兑换
 
   StorageUpload: WxApiRoot + 'storage/upload', //图片上传,
 

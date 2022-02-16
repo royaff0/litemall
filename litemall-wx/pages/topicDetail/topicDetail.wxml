@@ -7,7 +7,7 @@
     <view class="topic-goods">
       <view class="h">
         <text class="t">专题商品</text>     
-        <van-icon class="i" bindtap="addCollectOrNot" name="star" wx:if="{{collect}}" color="#ab956d"/>
+        <van-icon class="i" bindtap="addCollectOrNot" name="star" wx:if="{{collect}}" color="#F67569"/>
         <van-icon class="i" bindtap="addCollectOrNot" name="star-o" wx:else/>
       </view>
       <view class="b">

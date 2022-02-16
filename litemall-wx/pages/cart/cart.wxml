@@ -1,8 +1,8 @@
 <view class="container">
   <view class="no-login" wx:if="{{!hasLogin}}">
     <view class="c">
-      <text>还没有登录</text>
-      <button style="background-color:#A9A9A9" bindtap="goLogin">去登录</button>
+      <!-- <text>还没有登录</text> -->
+      <button style="background-color:#A9A9A9" bindtap="goLogin">点击登录</button>
     </view>
   </view>
   <view class='login' wx:else>

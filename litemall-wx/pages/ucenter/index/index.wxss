@@ -12,7 +12,7 @@ page {
 }
 
 .profile-info {
-  background-color: #ab956d;
+  background-color: #F67569;
   color: #f4f4f4;
   display: flex;
   align-items: center;
@@ -38,7 +38,8 @@ page {
   line-height: 45rpx;
   color: #fff;
   font-size: 37.5rpx;
-  margin-bottom: 10rpx;
+  margin-bottom: 15rpx;
+  margin-top: 15rpx;
 }
 
 .profile-info .level {
@@ -132,7 +133,7 @@ page {
 .separate {
   background: #e0e3da;
   width: 100%;
-  height: 6rpx;
+  height: 2rpx;
 }
 
 .user_column_item_phone {

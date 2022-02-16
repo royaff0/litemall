@@ -30,7 +30,7 @@
       <view class="title">
         <view>
           <navigator url="/pages/coupon/coupon">
-            <text class="txt">优惠券</text>
+            <text class="txt">红包卡券</text>
           </navigator>
         </view>
       </view>

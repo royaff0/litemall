@@ -148,7 +148,7 @@ Page({
     wx.navigateBack();
   },
   unselectCoupon: function() {
-    // 如果优惠券ID设置-1，则表示订单不使用优惠券
+    // 如果红包卡券ID设置-1，则表示订单不使用红包卡券
     try {
       wx.setStorageSync('couponId', -1);
       wx.setStorageSync('userCouponId', -1);
